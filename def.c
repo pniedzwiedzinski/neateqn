@@ -98,6 +98,9 @@ char *def_macros[][2] = {
 	{"tanh",	"roman \"tanh\""},
 	{"times",	"\\(mu"},
 	{"union",	"roman size +2 \\(cu"},
+	{"conj",	"\\(l&"},
+	{"disj",	"\\(l|"},
+	{"neg",		"¬"},
 	{NULL, NULL}
 };
 
